@@ -15,6 +15,7 @@ import com.google.android.material.textfield.TextInputEditText;
 
 import org.apache.commons.validator.routines.EmailValidator;
 
+// Test di modifica
 public class LoginActivity extends AppCompatActivity {
 
     public static final String TAG = LoginActivity.class.getName();
